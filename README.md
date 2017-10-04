@@ -14,4 +14,4 @@ Coolplay Spark 将包含 Spark 源代码解析、Spark 类库、Spark 代码等�
   - 包括 Spark 技术交流（中文社群）<br/>![wechat_spark_streaming_small](Spark%20%E8%B5%84%E6%BA%90%E9%9B%86%E5%90%88/resources/wechat_spark_streaming_small_.PNG)
   - Spark Summit 视频等资源集合
 
-- 不错的资源,值得深入拜读。
+- 不错的资源,值得深入拜读。^_^
