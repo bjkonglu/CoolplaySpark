@@ -15,3 +15,5 @@ Coolplay Spark 将包含 Spark 源代码解析、Spark 类库、Spark 代码等�
   - Spark Summit 视频等资源集合
 
 - 不错的资源,值得深入拜读。^_^
+    - Spark Streaming almost done.
+
